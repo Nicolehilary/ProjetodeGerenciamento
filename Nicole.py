@@ -1,1 +1,1 @@
-print("Hello World, Nicole Hilary!")
+print("Hello World, Nicole Hilary, vamos começar a gerenciar os repositórios do Github!")
